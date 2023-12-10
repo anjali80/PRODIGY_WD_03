@@ -1,1 +1,1 @@
-# PRODIGY_WD_03
+This is a tic-tac-toe web application made using HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, it is a user-friendly web application.
